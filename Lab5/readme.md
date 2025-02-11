@@ -38,5 +38,5 @@ AWS, Azure, and Google Cloud offer similar fundamental cloud services, but their
 | 29 | A service that helps you transcode, process, and stream media content such as video and audio. | MediaConvert | Azure Media Services | Transcoder API |
 | 30 | A real-time communication service used for sending notifications, emails, and text messages to users and devices. | Simple Notification Service (SNS) | Notification Hubs | Cloud Pub/Sub |
 
-This table serves as a reference for understanding how cloud services align across different cloud platforms, highlighting their similarities and differences in naming conventions and service offerings.
+
 
