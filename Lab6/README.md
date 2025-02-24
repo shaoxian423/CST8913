@@ -81,4 +81,4 @@ To address these challenges, we transitioned to a cloud-native architecture base
 
 ## **Code & Deployment Guide**
 
-The complete code and configuration files are hosted on GitHub: [GitHub Repository Link]
+The complete code and configuration files are hosted on GitHub: [[GitHub Repository Link](https://github.com/shaoxian423/CST8913/tree/main/Lab6)]
