@@ -4,7 +4,7 @@
 This report summarizes costs by resource type for the current Azure subscription.
 
 ## Cost Analysis
-- **Time Period**: Last 30 Days : March 1-10, 2025
+- **Time Period**: Last 30 Days : Feb 9 - Mar 10, 2025
 - **View**: Cost by Resource Type
 - **Exported**: CSV file (cost-analysis.csv)
 
