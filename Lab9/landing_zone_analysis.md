@@ -27,7 +27,7 @@ A landing zone provides a **pre-provisioned** space for workloads through code.
 | **Decentralized** | The least complex operating model , highly focused on independent workloads with minimal dependency on centralized operations |
 | **Centralized** | the most common operations mode .A single team controls all cloud governance and operations. |
 | **Enterprise** | Function for migrating entire datacenters or large portfolios to the cloud . |
-| **Distributed** | is the most complex form of operations , is the most complex form of operations. |
+| **Distributed** | is the most complex form of operations , This model is highly focused on independent workloads with minimal dependency on centralized operations. |
 
 ### Best Model for Data Center Migration
 For migrating an entire **data center**, the **Enterprise Model** is the best option because:
